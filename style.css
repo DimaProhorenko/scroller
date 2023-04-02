@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1,
+.div2 {
+    height: 100vh;
+}
+
+.div1 {
+    background-color:bisque;
+}
+
+.div2 {
+    background-color: blanchedalmond;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: salmon;
+}
